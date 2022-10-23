@@ -1,0 +1,10 @@
+
+	estimated price is {'Predicted rental price per day in dollars': 191.6}
+
+	actual rental_price_per_day is 156 dollars per day
+
+
+	estimated price is {"message": " \n    Error! PLease check your input. It should be in json format. Example input:\n    \"model_key\": \"Volkswagen\",\n    \"mileage\": 17500,\n    \"engine_power\": 190,\n    \"fuel\": \"diesel\",\n    \"paint_color\": \"black\",\n    \"car_type\": \"sedan\",\n    \"private_parking_available\": True,\n    \"has_gps\": True,\n    \"has_air_conditioning\": True,\n    \"automatic_car\": True,\n    \"has_getaround_connect\": True,\n    \"has_speed_regulator\": True,\n    \"winter_tires\": True\n    "}
+
+	actual rental_price_per_day is 156 dollars per day
+
