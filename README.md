@@ -22,3 +22,9 @@ The **goal** is to resolve those issues and give insights on implementing a mini
 2-  An documented online API on Heroku server containing /predict endpoint that respect the technical descriptions. 
 
 3-  Exploratory data analysis on Getaround data and test of various machine learning models
+
+Jedha Fullstack Datascientist Bootcamp - Bloc 5
+
+Link video - https://share.vidyard.com/watch/nC4tkmkVYyy2V9Rg9QzRua?
+
+lisbiliroglu@gmail.com
