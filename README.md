@@ -1,5 +1,4 @@
-# GetAround_EDA_ML_Dashboard_API_Project
-**Project on Exploratory Data Analysis, Supervised Machine Learning, Dashboard Building and API Creation**
+# GetAround Project on Exploratory Data Analysis, Supervised Machine Learning, Dashboard and API Build
 
 Link to dashboard: http://getaround-dashboard-threshold.herokuapp.com
 
