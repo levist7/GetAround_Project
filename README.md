@@ -26,5 +26,3 @@ The **goal** is to resolve those issues and give insights on implementing a mini
 Jedha Fullstack Datascientist Bootcamp - Bloc 5
 
 Link video - https://share.vidyard.com/watch/nC4tkmkVYyy2V9Rg9QzRua?
-
-lisbiliroglu@gmail.com
