@@ -26,9 +26,9 @@ Getaround is an online rental car rental service in an Airbnb way. When renting 
 *  Measure how many kilometers were driven.
 *  Ensure checkin and checkout policies
 
-First **goal** is to resolve those issues and give insights on implementing a minimum delay between two rentals. A car won’t be displayed in the search results if the requested checkin or checkout times are too close from an already booked rental. It can solve the late checkout issue but may hurt Getaround/owners' revenues.
+**First goal** is to resolve those issues and give insights on implementing a minimum delay between two rentals. A car won’t be displayed in the search results if the requested checkin or checkout times are too close from an already booked rental. It can solve the late checkout issue but may hurt Getaround/owners' revenues.
 
-Second **goal** is to provide an online API on Heroku server containing /predict endpoint that estimates the rental price per day.
+**Second goal** is to provide an online API on Heroku server containing /predict endpoint that estimates the rental price per day.
 
 ## Pipeline  
 
@@ -40,7 +40,7 @@ Availabe deliverables 📬:
 
 1-  Exploratory data analysis on Getaround data and test of various machine learning models  
 2-  A dashboard in production. [Dashboard](http://getaround-dashboard-threshold.herokuapp.com)  
-3-  An documented online API on Heroku server containing /predict endpoint that respect the technical descriptions.  [API/docs](http://getaround-api-xgboost.herokuapp.com/docs)
+3-  A documented online API [API/docs](http://getaround-api-xgboost.herokuapp.com/docs) containing /predict endpoint that respect the technical descriptions.  
 
 ## Model performances
 
