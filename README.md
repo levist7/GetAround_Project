@@ -6,7 +6,7 @@ Link to [dashboard](http://getaround-dashboard-threshold.herokuapp.com)
 
 Links to [API/docs](http://getaround-api-xgboost.herokuapp.com/docs) and [API/predict](http://getaround-api-xgboost.herokuapp.com/predict)  
 
-Link to [presentation video](https://share.vidyard.com/watch/nC4tkmkVYyy2V9Rg9QzRua?)  
+[Video presentation](https://share.vidyard.com/watch/nC4tkmkVYyy2V9Rg9QzRua?)  
 
 ## Table of contents
 * [Project](#project)
@@ -19,28 +19,28 @@ Link to [presentation video](https://share.vidyard.com/watch/nC4tkmkVYyy2V9Rg9Qz
 * [Author](#author)
 
 ## Project  
-Getaround is an online rental car rental service but in an Airbnb way. When renting a car, users have to complete a checkin flow at the beginning of the rental and a checkout flow at the end of the rental in order to:
+Getaround is an online rental car rental service in an Airbnb way. When renting a car, users have to complete a checkin flow at the beginning of the rental and a checkout flow at the end of the rental in order to:
 
 *  Assess the state of the car and notify other parties of pre-existing damages or damages that occurred during the rental.
 *  Compare fuel levels.
 *  Measure how many kilometers were driven.
 *  Ensure checkin and checkout policies
 
-First **goal** is to resolve those issues and give insights on implementing a minimum delay between two rentals. A car won’t be displayed in the search results if the requested checkin or checkout times are too close from an already booked rental. It can solve the late checkout issue but may hurt Getaround/owners revenues.
+First **goal** is to resolve those issues and give insights on implementing a minimum delay between two rentals. A car won’t be displayed in the search results if the requested checkin or checkout times are too close from an already booked rental. It can solve the late checkout issue but may hurt Getaround/owners' revenues.
 
-Second **goal** is to provide an online API on Heroku server containing /predict endpoint that predict the rental price per day for a given set of car details.
+Second **goal** is to provide an online API on Heroku server containing /predict endpoint that estimates the rental price per day.
 
 ## Pipeline  
 
-<img src = "">
+<img src = ".pipeline_summary.png">
 
 ## Deliverables  
 
 Availabe deliverables 📬:  
 
-1-  A dashboard in production (accessible via the web page above)  
-2-  An documented online API on Heroku server containing /predict endpoint that respect the technical descriptions.  
-3-  Exploratory data analysis on Getaround data and test of various machine learning models  
+1-  Exploratory data analysis on Getaround data and test of various machine learning models  
+2-  A dashboard in production. [Dashboard](http://getaround-dashboard-threshold.herokuapp.com)  
+3-  An documented online API on Heroku server containing /predict endpoint that respect the technical descriptions.  [API/docs](http://getaround-api-xgboost.herokuapp.com/docs)
 
 ## Model performances
 
@@ -48,10 +48,10 @@ Summary of machine learning model performances are shown below. It includes cros
 
 <img src = "/tracking/rmse_scores_experiments.png">
 
-In this project, **XGboost regressor model** (experiment number 13) was taken into consideration and deployed together with the web API. The error metric is listed below:
-* RMSE = 12.8 dollars on predicting car rental prices per day (mean of 4 K-fold scores)
+In this project, the best performances were obtained by **XGboost regressor model** (experiment number 13). Therefore, it was taken into consideration to deploy together with the web API. The error metric is listed below:
+* RMSE = 12.8 dollars on predicting car rental prices per day (mean of 4-fold scores)
 
-*More details can be found on 'tracking' folder.*
+*More details can be found under 'tracking' folder.*
 
 ## Technologies
 
