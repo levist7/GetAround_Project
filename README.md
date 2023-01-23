@@ -44,10 +44,12 @@ Availabe deliverables 📬:
 
 ## Model performances
 
-Machine learning model performances are shown below. It includes cross-validation and K-fold attributions.  
+
+Machine learning model performances are summarized below:  
 
 <img src = "/tracking/rmse_scores_experiments.png">
 
+Please note that the results show the box plots of metrics obtained with cross-validation and K=4-fold attributions.    
 In this project, the best performances were obtained by **XGboost regressor model** (experiment number 13). Therefore, it was taken into consideration to deploy together with the web API. The error metric is listed below:
 * RMSE = 12.8 dollars on predicting car rental prices per day (mean of 4-fold scores)
 
