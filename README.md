@@ -44,7 +44,7 @@ Availabe deliverables 📬:
 
 ## Model performances
 
-Summary of machine learning model performances are shown below. It includes cross-validation and K-fold attributions.  
+Machine learning model performances are shown below. It includes cross-validation and K-fold attributions.  
 
 <img src = "/tracking/rmse_scores_experiments.png">
 
