@@ -34,9 +34,8 @@ Getaround is an online rental car rental service in an Airbnb way. When renting 
 
 <img src = ".pipeline_summary.png">
 
-## Deliverables  
+## Deliverables 📬   
 
-Availabe deliverables 📬:  
 
 1-  Exploratory data analysis on Getaround data and test of various machine learning models  
 2-  A dashboard in production. [Dashboard](http://getaround-dashboard-threshold.herokuapp.com)  
