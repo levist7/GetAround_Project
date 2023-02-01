@@ -70,7 +70,7 @@ or this github project can be launched on [colab-google](https://colab.research.
 To run this project, 
 1. Clone the repo:
    ```sh
-   git clone https://github.com/levist7/GetAround_EDA_ML_Dashboard_API_Project.git
+   git clone https://github.com/levist7/GetAround_Project.git
    ```
 2. Install [packages](#technologies)
 
