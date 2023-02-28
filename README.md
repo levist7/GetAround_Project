@@ -39,7 +39,7 @@ Getaround is an online rental car rental service in an Airbnb way. When renting 
 
 1-  Exploratory data analysis on Getaround data and test of various machine learning models  
 2-  A dashboard in production. [Dashboard](http://getaround-dashboard-threshold.herokuapp.com)  
-3-  A documented online API [API/docs](http://getaround-api-xgboost.herokuapp.com/docs) containing /predict endpoint that respect the technical descriptions.  
+3-  A documented online [API/docs](http://getaround-api-xgboost.herokuapp.com/docs) containing /predict endpoint that respect the technical descriptions.  
 
 ## Model performances
 
