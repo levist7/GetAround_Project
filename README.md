@@ -6,7 +6,6 @@ Link to [dashboard](http://getaround-dashboard-threshold.herokuapp.com)
 
 Links to [API/docs](http://getaround-api-xgboost.herokuapp.com/docs) and [API/predict](http://getaround-api-xgboost.herokuapp.com/predict)  
 
-[Video presentation](https://share.vidyard.com/watch/nC4tkmkVYyy2V9Rg9QzRua?)  
 
 ## Table of contents
 * [Project](#project)
